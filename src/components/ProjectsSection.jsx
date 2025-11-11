@@ -15,7 +15,7 @@ const projects = [
     id: 2,
     title: "Apple MacBook Pro 3D Website",
     description:
-      "An immersive Apple-style 3D product showcase built with React, Three.js, GSAP, and Tailwind CSS — featuring smooth scroll animations and interactive 3D models.",
+      "An immersive Apple-style 3D product showcase built with React, Three.js, GSAP, and Tailwind CSS featuring smooth scroll animations and interactive 3D models.",
     image: "/projects/project2.png",
     tags: ["React", "Three.js", "GSAP", "Tailwind CSS"],
     demoUrl: "https://macbook-landing-page-one.vercel.app/",

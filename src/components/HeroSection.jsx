@@ -21,7 +21,7 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            Turning ideas into interactive experiences — I specialize in front-end development, 
+            Turning ideas into interactive experiences. I specialize in front-end development, 
             crafting beautiful, responsive, and user-focused interfaces 
             with the latest web technologies.
           </p>
